@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-aiohttp
-python-dotenv
-pydantic
