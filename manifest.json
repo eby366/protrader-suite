@@ -1,0 +1,14 @@
+{
+  "name": "ProTrader Suite",
+  "short_name": "ProTrader",
+  "description": "Crypto DCA + Football IA Robot",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06080f",
+  "theme_color": "#00d4ff",
+  "orientation": "any",
+  "icons": [
+    {"src": "android/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "android/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
